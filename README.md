@@ -1,1 +1,1 @@
-echo # yhstudy-springmvc2-thymeleaf-basic
+# yhstudy-springmvc2-thymeleaf-basic
